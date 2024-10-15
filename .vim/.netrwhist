@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/prod/cryptoqt/smlp/logs'
+let g:netrw_dirhist_2='/home/prod/cryptoqt/bsim'
+let g:netrw_dirhist_1='/home/ld/torchcode/pytorch/torch/csrc/autograd'
+let g:netrw_dirhist_0='/home/ld/torchcode/pytorch/torch/csrc/autograd/utils'
+let g:netrw_dirhist_9='/home/ld/torchcode/pytorch/torch/csrc/autograd'
+let g:netrw_dirhist_8='/home/ld/torchcode/pytorch/torch/csrc/autograd/functions'
+let g:netrw_dirhist_7='/home/ld/torchcode/pytorch/torch/csrc/autograd'
+let g:netrw_dirhist_6='/home/ld/torchcode/pytorch/torch/csrc/autograd/utils'
+let g:netrw_dirhist_5='/home/ld/torchcode/pytorch/torch/csrc/autograd'
+let g:netrw_dirhist_4='/home/ld/torchcode/pytorch/torch/csrc/autograd/functions'
